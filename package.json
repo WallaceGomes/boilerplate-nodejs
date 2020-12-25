@@ -1,0 +1,26 @@
+{
+  "name": "boilerplate-nodejs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/WallaceGomes/boilerplate-nodejs.git",
+  "author": "WallaceGomes <wallacecardosogomes@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "pq": "^0.0.3",
+    "sequelize": "^6.3.5",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "node-mocks-http": "^1.9.0",
+    "nodemon": "^2.0.6",
+    "sequelize-cli": "^6.2.0",
+    "supertest": "^6.0.1"
+  }
+}

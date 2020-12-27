@@ -8,7 +8,7 @@ module.exports = {
 			'users',
 			[
 				{
-					id: '1792b731-e1f1-4abd-9d4a-91dd3d94c8dd',
+					id: 'f60febfd-e20d-461c-9ee0-f5da4e955f51',
 					name: 'Admin',
 					email: 'admin@teste.com',
 					password: hashedPass,
